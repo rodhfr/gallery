@@ -1,10 +1,18 @@
 /* Your custom styles go here */
+/* Set the text color to black for various HTML elements */
+body, p, h1, h2, h3, h4, h5, h6, a, span, div, li, td, th {
+    color: black;
+}
 
 /* Header Styles */
 header {
     background-color: rgba(0, 0, 0, 0.0); /* Semi-transparent black background */
     padding: 20px;
     text-align: center;
+    font-family: Times New Roman, sans-serif;
+    font-style: italic;
+    color: yellow;
+    font-size: 50px;
 }
 
 /* Body Styles */
@@ -31,10 +39,7 @@ p {
     line-height: 1.6;
 }
 
-/* Set the text color to black for various HTML elements */
-body, p, h1, h2, h3, h4, h5, h6, a, span, div, li, td, th {
-    color: black;
-}
+
 
 .breadcrumb-item {
     background-color: transparent;
