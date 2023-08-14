@@ -5,9 +5,6 @@ header {
     background-color: rgba(0, 0, 0, 0.0); /* Semi-transparent black background */
     padding: 20px;
     text-align: center;
-    font-family: "Courier New", monospace; 
-    color: #ffcc00
-    margin: 0
 }
 
 /* Body Styles */
