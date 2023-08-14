@@ -2,7 +2,7 @@
 
 
 header {
-    background-color: rgba(0, 0, 0, 0.5); /* Black with 50% opacity */
+    background-color: rgba(0, 0, 0, 0); /* Black with 50% opacity */
     padding: 10px;
 }
 
@@ -17,10 +17,11 @@ header h1 {
 
 body {
     background-image: url('https://w.wallhaven.cc/full/zy/wallhaven-zyxvqy.jpg');
-    background-size: contain;
+    background-size: auto;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-position: center center;
+    margin: 0; /* Reset default body margin */
+    padding: 0; /* Reset default body padding */
 }
 
 footer p {
