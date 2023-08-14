@@ -1,4 +1,28 @@
 /* Your custom styles goes here */
-body {
-    background-color: lightblue;
+
+
+/* Styles for the <header> element */
+header {
+    background-color: lightgray;
+    padding: 20px;
 }
+
+/* Import and define the 'Raleway' font */
+@font-face {
+    font-family: 'Raleway';
+    src: url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;700&display=swap') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* Apply the imported font to the <h1> element */
+header h1 {
+    font-family: 'Raleway', sans-serif;
+    color: navy;
+    font-size: 28px;
+}
+
+body {
+    background-color: #C2C2C2;
+}
+
