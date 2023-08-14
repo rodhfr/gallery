@@ -9,15 +9,13 @@ header {
     background-color: rgba(0, 0, 0, 0.0); /* Semi-transparent black background */
     padding: 20px;
     text-align: center;
-    font-family: Times New Roman, sans-serif;
-    font-style: italic;
-    color: yellow;
+    font-family: Mosk Typeface, sans-serif;
     font-size: 50px;
 }
 
 /* Body Styles */
 body {
-    background-image: url('https://w.wallhaven.cc/full/zy/wallhaven-zyxvqy.jpg');
+    background-image: url('https://w.wallhaven.cc/full/l8/wallhaven-l83o92.jpg');
     background-size: cover; /* Cover the entire screen */
     background-repeat: no-repeat;
     background-attachment: fixed;
