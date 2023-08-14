@@ -9,7 +9,7 @@ header {
     background-color: rgba(0, 0, 0, 0.0); /* Semi-transparent black background */
     padding: 20px;
     text-align: center;
-    font-family: Mosk Typeface, sans-serif;
+    font-family: Lora, sans-serif;
     font-size: 50px;
 }
 
@@ -41,7 +41,7 @@ p {
 
 .breadcrumb-item {
     background-color: transparent;
-    opacity: 0.6; /* Adjust opacity as needed */
+    opacity: 0; /* Adjust opacity as needed */
     color: black; /* Set the text color */
     text-decoration: none; /* Remove underline */
 }
