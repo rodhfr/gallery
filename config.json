@@ -1,13 +1,13 @@
 {
   "input": "./gallery",
   "output": "./build_output",
-  "title": "",
+  "title": "Galeria",
   "sort-albums-by": "start-date",
   "sort-media-by": "date",
   "download-photos": "copy",
   "cleanup": true,
   "theme": "flow",
   "css": "./custom.css",
-  "footer": "rodhfr.bearblog.dev",
+  "footer": "",
   "usage-stats": false
 }
