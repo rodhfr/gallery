@@ -1,14 +1,26 @@
 /* Your custom styles goes here */
 
-/* Apply the imported font to the <h1> element */
+
+header {
+    background-color: rgba(0, 0, 0, 0.5); /* Black with 50% opacity */
+    padding: 10px;
+}
+
+
 header h1 {
-    font-family: 'Comic Sans', sans-serif;
+    font-family: Arial, sans-serif;
+    font-style: italic;
+    color: yellow;
+    background-color: transparent;
     font-size: 50px;
 }
 
 body {
     background-image: url('https://w.wallhaven.cc/full/zy/wallhaven-zyxvqy.jpg');
-    background-size: cover;
+    background-size: contain;
     background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
 }
+
 
