@@ -23,4 +23,8 @@ body {
     background-position: center center;
 }
 
+footer p {
+    content: "";
+}
+
 
