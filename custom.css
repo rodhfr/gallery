@@ -36,3 +36,10 @@ body, p, h1, h2, h3, h4, h5, h6, a, span, div, li, td, th {
     color: black;
 }
 
+.breadcrumb-item {
+    background-color: transparent;
+    opacity: 0.6; /* Adjust opacity as needed */
+    color: black; /* Set the text color */
+    text-decoration: none; /* Remove underline */
+}
+
